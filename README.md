@@ -7,6 +7,8 @@ This example is how to show different parts of the GIT repository and various co
 ## Purpose
 
 ## Deployment
+A simple web project 
 
 ## How to Contribute
+Not Applicable 
 
